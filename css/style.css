@@ -1,5 +1,5 @@
 #main-navbar {
-    background-color: red;
+    background-color: blue;
     overflow: hidden;
 }
 
@@ -32,18 +32,17 @@
     text-decoration: none;
 }
 
-
 #main-navbar ul li a:hover {
     background-color: #000;
 }
 
-#onpage{
+#onpage {
     text-decoration: underline overline;
 }
 
 #sidebar {
     position: fixed;
-    right: 0%;
+    right:0%;
     background-color: red;
     height: 100%;
     width: 20%;
